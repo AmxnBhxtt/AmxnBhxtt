@@ -1,6 +1,8 @@
 ### Hi there, I'm Aman👋
 ### 🔭 I’m currently working on something really cool!
-### ⚡ Fun fact: The first computer virus was a Creeper
+### 🌱 I’m currently learning Advanced Java and Web Assembly.
+### 💬 Ask me about anything (My Passion, Experience, or Basic Working Principles of Quantum Computers!)
+### ⚡ Fun fact: The first-ever computer had a weight of over 27 Tons!
 
 <!--
 **AmxnBhxtt/AmxnBhxtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
