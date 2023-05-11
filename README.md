@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Aman👋
+### 🔭 I’m currently working on something really cool!
+### ⚡ Fun fact: The first computer virus was a Creeper
 
 <!--
 **AmxnBhxtt/AmxnBhxtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
