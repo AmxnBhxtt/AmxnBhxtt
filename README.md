@@ -7,14 +7,13 @@
 
 ![AmxnBhxtt's Stats](https://github-readme-stats.vercel.app/api?username=AmxnBhxtt&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 
-
+### Programming languages:
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![R-Studio](https://img.shields.io/badge/-R-Studio-000?&logo=R-Studio)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![R-Studio](https://img.shields.io/badge/-R-Studio-000?&logo=R)
 
 ### Frontend development:
 &emsp;
