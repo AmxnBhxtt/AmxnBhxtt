@@ -10,7 +10,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amxnbhxtt&theme=chartreuse-dark" alt="amxnbhxtt"" />
 </p>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmxnBhxtt&theme=chartreuse-dark&show_icons=true&locale=en" alt="amxnbhxtt" /></p>
 
 
 <!--
