@@ -4,6 +4,8 @@
 ### 💬 Ask me about anything (My Passion, Experience, or Basic Working Principles of Quantum Computers!)
 ### ⚡ Fun fact: The first-ever computer had a weight of over 27 Tons!
 
+![AmxnBhxtt's Stats](https://github-readme-stats.vercel.app/api?username=AmxnBhxtt&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+
 <!--
 **AmxnBhxtt/AmxnBhxtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
