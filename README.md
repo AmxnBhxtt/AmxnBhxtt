@@ -1,9 +1,7 @@
 
-
-
 <p align=”center”>
   
-![Custom Size – 1](https://github.com/AmxnBhxtt/AmxnBhxtt/assets/113989108/2378622b-e62b-4d77-8c84-99c2c9edd2a8)
+<img width="1115" alt="Screenshot 2023-07-12 at 11 25 50 PM" src="https://github.com/AmxnBhxtt/AmxnBhxtt/assets/113989108/c87a4375-bc6d-4f8d-893c-b7dfe0b8a5fd">
 
 </p>
 
