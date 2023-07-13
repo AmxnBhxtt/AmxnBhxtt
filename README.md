@@ -5,12 +5,13 @@
 
 </p>
 
-![AmxnBhxtt's Stats](https://github-readme-stats.vercel.app/api?username=AmxnBhxtt&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmxnBhxtt&theme=chartreuse-dark&show_icons=true&count_private=true" alt="AmxnBhxtt's Stats"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amxnbhxtt&theme=chartreuse-dark" alt="amxnbhxtt"" />
+</p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amxnbhxtt&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="amxnbhxtt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amxnbhxtt&theme=chartreuse-dark" alt="amxnbhxtt" /></p>
 
 <!--
 **AmxnBhxtt/AmxnBhxtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
