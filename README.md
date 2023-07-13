@@ -1,7 +1,7 @@
 
 <p align=”center”>
   
-  <img width="1109" alt="Screenshot 2023-07-12 at 11 26 58 PM" src="https://github.com/AmxnBhxtt/AmxnBhxtt/assets/113989108/0c215b83-c595-4224-b275-d40ff8a793be">
+<img width="1103" alt="Banner Img" src="https://github.com/AmxnBhxtt/AmxnBhxtt/assets/113989108/af0a36a3-09d7-48b9-aa0a-a193126c20cb">
 
 </p>
 
