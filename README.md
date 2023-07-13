@@ -6,11 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmxnBhxtt&theme=chartreuse-dark&show_icons=true&count_private=true" alt="AmxnBhxtt's Stats"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amxnbhxtt&theme=chartreuse-dark" alt="amxnbhxtt"" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmxnBhxtt&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=%20GitHub%20Stats" width="45%" > <!-- End GitHub Stats -->
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmxnBhxtt&theme=chartreuse-dark&currStreakLabel=77B0CA&sideLabels=F2E8E7&sideNums=F2E8E7&currStreakNum=F2E8E7&stroke=F2E8E7" width="45%"> <!-- End Streak Stats -->
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmxnBhxtt&theme=chartreuse-dark&show_icons=true&locale=en" alt="amxnbhxtt" /></p>
 
 
 <!--
