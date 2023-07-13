@@ -7,6 +7,11 @@
 
 ![AmxnBhxtt's Stats](https://github-readme-stats.vercel.app/api?username=AmxnBhxtt&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amxnbhxtt&show_icons=true&locale=en&layout=compact" alt="amxnbhxtt" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amxnbhxtt&" alt="amxnbhxtt" /></p>
+
 <!--
 **AmxnBhxtt/AmxnBhxtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
