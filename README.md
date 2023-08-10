@@ -10,9 +10,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AmxnBhxtt&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=%20GitHub%20Stats" width="45%" > 
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmxnBhxtt&theme=chartreuse-dark&currStreakLabel=77B0CA&sideLabels=F2E8E7&sideNums=F2E8E7&currStreakNum=F2E8E7&stroke=F2E8E7" width="45%"> 
 </p>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmxnBhxtt)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 <hr>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmxnBhxtt&theme=chartreuse-dark&include_all_commits=true" alt="Top Languages" />
+  </a>
+</div>
+
+
 
 <p align=”center”>
 <img width="1000" alt="header_1" src="https://github.com/AmxnBhxtt/AmxnBhxtt/assets/113989108/92246a2c-4b43-4cf7-93d8-d3a54b025ce0">
