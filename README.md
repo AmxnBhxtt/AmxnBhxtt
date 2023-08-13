@@ -12,11 +12,6 @@
 </p>
 <hr>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmxnBhxtt&theme=chartreuse-dark&include_all_commits=true" alt="Top Languages" />
-  </a>
-</div>
 
 
 
