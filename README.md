@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Aman👋
 ### 🔭 I’m currently working on something really cool!
 ### 🌱 I’m currently learning Advanced Java and Web Assembly.
-### 💬 Ask me about anything (My Passion, Experience, or Basic Working Principles of Quantum Computers!)
+### 💬 Ask me about anything (My Passin, Experience, or Basic Working Principles of Quantum Computers!)
 ### ⚡ Fun fact: The first-ever computer had a weight of over 27 Tons!
 
 
