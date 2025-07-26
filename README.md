@@ -3,7 +3,7 @@
 <img width="1103" alt="Banner Img" src="https://github.com/AmxnBhxtt/AmxnBhxtt/assets/113989108/2f61b3c5-ad01-47d2-b447-4c51128a859a">
 </p>
 
-<br>
+
 <hr>
 
 
